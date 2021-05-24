@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好 👋
 
 <!--
 **njcwking/njcwking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <h3 align="left">
 	技能:
 </h3>
@@ -23,9 +30,9 @@ Here are some ideas to get you started:
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
 		alt="android" width="40" height="40" />
 	</a>
-	<a href="https://www.w3.org/html/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-		alt="html5" width="40" height="40" />
+	<a href="https://www.java.com" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+		alt="java" width="40" height="40" />
 	</a>
 	<a href="https://vuejs.org/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
@@ -51,9 +58,9 @@ Here are some ideas to get you started:
 		<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
 		alt="flutter" width="40" height="40" />
 	</a>
-	<a href="https://www.java.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-		alt="java" width="40" height="40" />
+	<a href="https://www.w3.org/html/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+		alt="html5" width="40" height="40" />
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
