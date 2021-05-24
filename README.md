@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 
 <hr/>
 
+<img align="right" src="https://github.com/njcwking/njcwking/blob/main/hadder.gif" alt="Coder GIF" height="240">
+
 ## I'm a Student and a Web Developer!
 
 
@@ -85,12 +87,6 @@ Here are some ideas to get you started:
 <br/>
 
 ---
-
-
-
-<p align="center">
-<br><img src="https://github.com/njcwking/njcwking/blob/main/separator.png" width="100%"><br><br>
-</p>
 
 <p align="center">
 <a href="https://github.com/njcwking">
