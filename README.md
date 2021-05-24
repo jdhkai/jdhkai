@@ -16,40 +16,6 @@ Here are some ideas to get you started:
 <p align="center">
 <br><img src="https://github.com/njcwking/njcwking/blob/main/header.png" width="100%"><br><br>
 </p>
-
-<hr/>
-
-## I'm a Student and a Web Developer!
-
-
-◾ 💻 Currently learning **[React][react]**.
-<br/>
-◾ 🏏 I love to Play, Watch & Talk about **Cricket**.
-<br/>
-◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
-<br/>
-◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
-<br/>
-◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**.
-<br/>
-◾ 🥅 2021 Goals: Being Fluent in **[React][react]**.
-<br/>
-◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much.
-<br/>
-<br/>
-
----
-
-<p align="center">
-<a href="https://github.com/njcwking">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=njcwking&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=cn&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=njcwking&layout=compact&langs_count=8&theme=algolia&locale=cn&hide_title=true"/>
-</a>
-</p>
-
-<h3 align="center">
-	技能:
-</h3>
 <p align="center">
 	<a href="https://developer.android.com" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -95,6 +61,36 @@ Here are some ideas to get you started:
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
 		alt="typescript" width="40" height="40" />
 	</a>
+</p>
+
+<hr/>
+
+## I'm a Student and a Web Developer!
+
+
+◾ 💻 Currently learning **[React][react]**.
+<br/>
+◾ 🏏 I love to Play, Watch & Talk about **Cricket**.
+<br/>
+◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
+<br/>
+◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
+<br/>
+◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**.
+<br/>
+◾ 🥅 2021 Goals: Being Fluent in **[React][react]**.
+<br/>
+◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much.
+<br/>
+<br/>
+
+---
+
+<p align="center">
+<a href="https://github.com/njcwking">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=njcwking&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=cn&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=njcwking&layout=compact&langs_count=8&theme=algolia&locale=cn&hide_title=true"/>
+</a>
 </p>
 
 <p align="center">
