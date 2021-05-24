@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<br><img src="https://github.com/njcwking/njcwking/blob/master/hadder.gif" width="280px"><br><br>
+<br><img src="https://github.com/njcwking/njcwking/blob/main/hadder.gif" width="280px"><br><br>
 </p>
 
 <p align="center">
