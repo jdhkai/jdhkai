@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <br><img src="https://github.com/njcwking/njcwking/blob/main/header.png" width="100%"><br><br>
 </p>
 
+<hr/>
+
 <img align="right" src="https://github.com/njcwking/njcwking/blob/main/coding.gif" alt="Coder GIF" height="280"/>
 
 ## I'm a Student and a Web Developer!
@@ -97,4 +99,8 @@ Here are some ideas to get you started:
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
 		alt="typescript" width="40" height="40" />
 	</a>
+</p>
+
+<p align="center">
+<br><img src="https://github.com/njcwking/njcwking/blob/main/footer.png" width="100%"><br><br>
 </p>
