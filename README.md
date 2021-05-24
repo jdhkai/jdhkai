@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br><img src="https://github.com/njcwking/njcwking/blob/main/hadder.gif" width="280px"><br><br>
 </p>
 
-[<img align="right" src="https://github.com/njcwking/njcwking/blob/main/coding.gif" alt="Coder GIF" height="280">][myprofile]
+<img align="right" src="https://github.com/njcwking/njcwking/blob/main/coding.gif" alt="Coder GIF" height="280"/>
 
 ## I'm a Student and a Web Developer!
 
