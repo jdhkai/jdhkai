@@ -86,6 +86,12 @@ Here are some ideas to get you started:
 
 ---
 
+
+
+<p align="center">
+<br><img src="https://github.com/njcwking/njcwking/blob/main/separator.png" width="100%"><br><br>
+</p>
+
 <p align="center">
 <a href="https://github.com/njcwking">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=njcwking&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=cn&hide_title=true"/>
