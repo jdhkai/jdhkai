@@ -1,5 +1,3 @@
-### 你好 👋
-
 <!--
 **njcwking/njcwking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,8 +18,6 @@ Here are some ideas to get you started:
 </p>
 
 <hr/>
-
-<img align="right" src="https://github.com/njcwking/njcwking/blob/main/coding.gif" alt="Coder GIF" height="280"/>
 
 ## I'm a Student and a Web Developer!
 
