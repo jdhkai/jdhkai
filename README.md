@@ -63,30 +63,16 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-<hr/>
-
 <img align="right" src="https://github.com/njcwking/njcwking/blob/main/hadder.gif" alt="Coder GIF" height="240">
 
 ## I'm a Student and a Web Developer!
 
+- 🔭 我目前正在尝试开发在线课程、副业、睡后收入，欢迎有想法的小伙伴一起交流
+- 🌱 我目前正在学习小程序云开发、uni-app、Flutter
+- 👯 我正在寻找独立UI设计、产品同学合作，组建小团队，欢迎有想法的小伙伴一起做一些产品
+- 🚴 喜欢打桌球、麻将，水平菜鸡，浙江省杭州市西湖区的朋友可以一起玩啊
+- 📫 如何联系我：微信（dunizb）
 
-◾ 💻 Currently learning **[React][react]**.
-<br/>
-◾ 🏏 I love to Play, Watch & Talk about **Cricket**.
-<br/>
-◾ ⚾  Follow My FB Page **[CricHut][CricHut]**.
-<br/>
-◾ 👕 Currently with a t-shirt site **[Hattsoffstore][hattsoff]**.
-<br/>
-◾ ▶  Currently making Videos on  **[Sportz Hut][sportzhut]**.
-<br/>
-◾ 🥅 2021 Goals: Being Fluent in **[React][react]**.
-<br/>
-◾ ❤ Fun fact: I love to Play **[Pokémon Go](https://pokemongolive.com/)** sooo much.
-<br/>
-<br/>
-
----
 
 <p align="center">
 <a href="https://github.com/njcwking">
