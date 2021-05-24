@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<h3 align="left">
+<h3 align="center">
 	技能:
 </h3>
 <p align="center">
@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
 		alt="spring" width="40" height="40" />
 	</a>
+	<span>&nbsp;&nbsp;&nbsp;</span>
 	<a href="https://www.typescriptlang.org/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
 		alt="typescript" width="40" height="40" />
