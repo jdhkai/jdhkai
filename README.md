@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 <br/>
 <p align="center">
 <a href="https://github.com/njcwking">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=njcwking&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=cn&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=njcwking&layout=compact&langs_count=8&theme=algolia&locale=cn&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jdhkai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=cn&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jdhkai&layout=compact&langs_count=8&theme=algolia&locale=cn&hide_title=true"/>
 </a>
 </p>
 
 <p align="center">
-<br><img src="https://github.com/njcwking/njcwking/blob/main/footer.png" width="100%"><br><br>
+<br><img src="https://github.com/jdhkai/jdhkai/blob/main/footer.png" width="100%"><br><br>
 </p>
